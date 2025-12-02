@@ -1,0 +1,48 @@
+{
+  "name": "@dethdkn/ox-config",
+  "type": "module",
+  "version": "0.0.0",
+  "packageManager": "bun@1.3.3",
+  "description": "⚓ My Opinionated OX Config",
+  "author": {
+    "name": "Gabriel 'DethDKN' Rosa",
+    "email": "gabriel@rosa.dev.br",
+    "url": "https://rosa.dev.br"
+  },
+  "license": "MIT",
+  "funding": "https://github.com/sponsors/dethdkn",
+  "homepage": "https://github.com/dethdkn/ox-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dethdkn/ox-config.git"
+  },
+  "bugs": "https://github.com/dethdkn/ox-config/issues",
+  "keywords": [
+    "oxlint",
+    "oxlint-config"
+  ],
+  "exports": {
+    "./.oxfmtrc.json": "./.oxfmtrc.json",
+    "./.oxlintrc.json": "./.oxlintrc.json"
+  },
+  "files": [
+    ".oxfmtrc.json",
+    ".oxlintrc.json"
+  ],
+  "scripts": {
+    "fmt": "oxfmt",
+    "lint": "oxlint --type-aware",
+    "lint:fix": "oxlint --type-aware --fix",
+    "release": "bun fmt && bun lint && bumpp && sudo npm publish"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bumpp": "^10.3.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "oxfmt": "^0.16.0",
+    "oxlint": "^1.31.0",
+    "oxlint-tsgolint": "^0.8.3"
+  }
+}
