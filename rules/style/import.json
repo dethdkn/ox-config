@@ -10,7 +10,7 @@
       "error"
     ],
     "import/group-exports": [
-      "error"
+      "off"
     ],
     "import/no-anonymous-default-export": [
       "off"

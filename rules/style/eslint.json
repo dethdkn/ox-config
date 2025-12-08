@@ -61,7 +61,7 @@
       "error"
     ],
     "eslint/no-magic-numbers": [
-      "error"
+      "off"
     ],
     "eslint/no-multi-assign": [
       "error"

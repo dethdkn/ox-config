@@ -5,7 +5,18 @@
     "node": true,
     "es2024": true
   },
-  "plugins": ["eslint", "typescript", "unicorn", "oxc", "import", "jsdoc", "node", "promise", "vitest", "vue"],
+  "plugins": [
+    "eslint",
+    "typescript",
+    "unicorn",
+    "oxc",
+    "import",
+    "jsdoc",
+    "node",
+    "promise",
+    "vitest",
+    "vue"
+  ],
   "jsPlugins": [],
   "extends": [
     "./rules/correctness/eslint.json",

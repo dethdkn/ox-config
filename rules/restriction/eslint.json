@@ -75,7 +75,7 @@
       ]
     ],
     "eslint/no-undefined": [
-      "error"
+      "off"
     ],
     "eslint/no-var": [
       "error"
