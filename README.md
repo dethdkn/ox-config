@@ -36,7 +36,8 @@
 ```json
 {
   "scripts": {
-    "fmt": "oxfmt",
+    "fmt": "oxfmt --check",
+    "fmt:fix": "oxfmt",
     "lint": "oxlint --type-aware",
     "lint:fix": "oxlint --type-aware --fix"
   }
