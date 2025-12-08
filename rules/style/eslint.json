@@ -14,7 +14,7 @@
     ],
     "eslint/grouped-accessor-pairs": ["error"],
     "eslint/guard-for-in": ["error"],
-    "eslint/id-length": ["error", { "exceptions": ["_", "i", "j", "k", "l"] }],
+    "eslint/id-length": ["error", { "exceptions": ["_", "i", "j", "k", "l", "t"] }],
     "eslint/init-declarations": ["off"],
     "eslint/max-params": ["off"],
     "eslint/new-cap": ["error"],
