@@ -14,7 +14,7 @@
     "typescript/no-var-requires": ["error"],
     "typescript/non-nullable-type-assertion-style": ["off"],
     "typescript/prefer-literal-enum-member": ["error"],
-    "typescript/promise-function-async": ["error"],
+    "typescript/promise-function-async": ["off"],
     "typescript/use-unknown-in-catch-callback-variable": ["error"]
   }
 }
