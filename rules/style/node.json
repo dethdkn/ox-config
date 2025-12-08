@@ -1,7 +1,5 @@
 {
   "rules": {
-    "node/no-exports-assign": [
-      "error"
-    ]
+    "node/no-exports-assign": ["error"]
   }
 }

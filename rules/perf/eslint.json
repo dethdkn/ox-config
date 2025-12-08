@@ -1,10 +1,6 @@
 {
   "rules": {
-    "eslint/no-await-in-loop": [
-      "error"
-    ],
-    "eslint/no-useless-call": [
-      "error"
-    ]
+    "eslint/no-await-in-loop": ["error"],
+    "eslint/no-useless-call": ["error"]
   }
 }

@@ -1,79 +1,29 @@
 {
   "rules": {
-    "typescript/await-thenable": [
-      "error"
-    ],
-    "typescript/no-array-delete": [
-      "error"
-    ],
-    "typescript/no-base-to-string": [
-      "error"
-    ],
-    "typescript/no-duplicate-enum-values": [
-      "error"
-    ],
-    "typescript/no-duplicate-type-constituents": [
-      "error"
-    ],
-    "typescript/no-extra-non-null-assertion": [
-      "error"
-    ],
-    "typescript/no-floating-promises": [
-      "error"
-    ],
-    "typescript/no-for-in-array": [
-      "error"
-    ],
-    "typescript/no-implied-eval": [
-      "error"
-    ],
-    "typescript/no-meaningless-void-operator": [
-      "error"
-    ],
-    "typescript/no-misused-new": [
-      "error"
-    ],
-    "typescript/no-misused-spread": [
-      "error"
-    ],
-    "typescript/no-non-null-asserted-optional-chain": [
-      "error"
-    ],
-    "typescript/no-redundant-type-constituents": [
-      "error"
-    ],
-    "typescript/no-this-alias": [
-      "error"
-    ],
-    "typescript/no-unnecessary-parameter-property-assignment": [
-      "error"
-    ],
-    "typescript/no-unsafe-declaration-merging": [
-      "error"
-    ],
-    "typescript/no-unsafe-unary-minus": [
-      "error"
-    ],
-    "typescript/no-useless-empty-export": [
-      "error"
-    ],
-    "typescript/no-wrapper-object-types": [
-      "error"
-    ],
-    "typescript/prefer-as-const": [
-      "error"
-    ],
-    "typescript/require-array-sort-compare": [
-      "error"
-    ],
-    "typescript/restrict-template-expressions": [
-      "error"
-    ],
-    "typescript/triple-slash-reference": [
-      "error"
-    ],
-    "typescript/unbound-method": [
-      "error"
-    ]
+    "typescript/await-thenable": ["error"],
+    "typescript/no-array-delete": ["error"],
+    "typescript/no-base-to-string": ["error"],
+    "typescript/no-duplicate-enum-values": ["error"],
+    "typescript/no-duplicate-type-constituents": ["error"],
+    "typescript/no-extra-non-null-assertion": ["error"],
+    "typescript/no-floating-promises": ["error"],
+    "typescript/no-for-in-array": ["error"],
+    "typescript/no-implied-eval": ["error"],
+    "typescript/no-meaningless-void-operator": ["error"],
+    "typescript/no-misused-new": ["error"],
+    "typescript/no-misused-spread": ["error"],
+    "typescript/no-non-null-asserted-optional-chain": ["error"],
+    "typescript/no-redundant-type-constituents": ["error"],
+    "typescript/no-this-alias": ["error"],
+    "typescript/no-unnecessary-parameter-property-assignment": ["error"],
+    "typescript/no-unsafe-declaration-merging": ["error"],
+    "typescript/no-unsafe-unary-minus": ["error"],
+    "typescript/no-useless-empty-export": ["error"],
+    "typescript/no-wrapper-object-types": ["error"],
+    "typescript/prefer-as-const": ["error"],
+    "typescript/require-array-sort-compare": ["error"],
+    "typescript/restrict-template-expressions": ["error"],
+    "typescript/triple-slash-reference": ["error"],
+    "typescript/unbound-method": ["error"]
   }
 }

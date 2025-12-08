@@ -1,31 +1,13 @@
 {
   "rules": {
-    "jsdoc/check-property-names": [
-      "error"
-    ],
-    "jsdoc/check-tag-names": [
-      "error"
-    ],
-    "jsdoc/implements-on-classes": [
-      "error"
-    ],
-    "jsdoc/no-defaults": [
-      "error"
-    ],
-    "jsdoc/require-property": [
-      "error"
-    ],
-    "jsdoc/require-property-description": [
-      "error"
-    ],
-    "jsdoc/require-property-name": [
-      "error"
-    ],
-    "jsdoc/require-property-type": [
-      "error"
-    ],
-    "jsdoc/require-yields": [
-      "error"
-    ]
+    "jsdoc/check-property-names": ["error"],
+    "jsdoc/check-tag-names": ["error"],
+    "jsdoc/implements-on-classes": ["error"],
+    "jsdoc/no-defaults": ["error"],
+    "jsdoc/require-property": ["error"],
+    "jsdoc/require-property-description": ["error"],
+    "jsdoc/require-property-name": ["error"],
+    "jsdoc/require-property-type": ["error"],
+    "jsdoc/require-yields": ["error"]
   }
 }

@@ -1,118 +1,42 @@
 {
   "rules": {
-    "unicorn/catch-error-name": [
-      "error"
-    ],
-    "unicorn/consistent-date-clone": [
-      "error"
-    ],
-    "unicorn/consistent-existence-index-check": [
-      "error"
-    ],
-    "unicorn/empty-brace-spaces": [
-      "error"
-    ],
-    "unicorn/error-message": [
-      "error"
-    ],
-    "unicorn/filename-case": [
-      "off"
-    ],
-    "unicorn/no-array-method-this-argument": [
-      "error"
-    ],
-    "unicorn/no-await-expression-member": [
-      "error"
-    ],
-    "unicorn/no-console-spaces": [
-      "error"
-    ],
-    "unicorn/no-nested-ternary": [
-      "error"
-    ],
-    "unicorn/no-null": [
-      "off"
-    ],
-    "unicorn/no-unreadable-array-destructuring": [
-      "error"
-    ],
-    "unicorn/no-useless-collection-argument": [
-      "error"
-    ],
-    "unicorn/no-zero-fractions": [
-      "error"
-    ],
-    "unicorn/number-literal-case": [
-      "error"
-    ],
-    "unicorn/numeric-separators-style": [
-      "error"
-    ],
-    "unicorn/prefer-array-index-of": [
-      "error"
-    ],
-    "unicorn/prefer-bigint-literals": [
-      "error"
-    ],
-    "unicorn/prefer-class-fields": [
-      "error"
-    ],
-    "unicorn/prefer-classlist-toggle": [
-      "error"
-    ],
-    "unicorn/prefer-dom-node-text-content": [
-      "error"
-    ],
-    "unicorn/prefer-global-this": [
-      "error"
-    ],
-    "unicorn/prefer-includes": [
-      "error"
-    ],
-    "unicorn/prefer-logical-operator-over-ternary": [
-      "error"
-    ],
-    "unicorn/prefer-modern-dom-apis": [
-      "error"
-    ],
-    "unicorn/prefer-negative-index": [
-      "error"
-    ],
-    "unicorn/prefer-object-from-entries": [
-      "error"
-    ],
-    "unicorn/prefer-optional-catch-binding": [
-      "error"
-    ],
-    "unicorn/prefer-reflect-apply": [
-      "error"
-    ],
-    "unicorn/prefer-response-static-json": [
-      "error"
-    ],
-    "unicorn/prefer-spread": [
-      "error"
-    ],
-    "unicorn/prefer-string-raw": [
-      "error"
-    ],
-    "unicorn/prefer-string-trim-start-end": [
-      "error"
-    ],
-    "unicorn/prefer-structured-clone": [
-      "error"
-    ],
-    "unicorn/require-array-join-separator": [
-      "error"
-    ],
-    "unicorn/switch-case-braces": [
-      "error"
-    ],
-    "unicorn/text-encoding-identifier-case": [
-      "error"
-    ],
-    "unicorn/throw-new-error": [
-      "error"
-    ]
+    "unicorn/catch-error-name": ["error"],
+    "unicorn/consistent-date-clone": ["error"],
+    "unicorn/consistent-existence-index-check": ["error"],
+    "unicorn/empty-brace-spaces": ["error"],
+    "unicorn/error-message": ["error"],
+    "unicorn/filename-case": ["off"],
+    "unicorn/no-array-method-this-argument": ["error"],
+    "unicorn/no-await-expression-member": ["error"],
+    "unicorn/no-console-spaces": ["error"],
+    "unicorn/no-nested-ternary": ["error"],
+    "unicorn/no-null": ["off"],
+    "unicorn/no-unreadable-array-destructuring": ["error"],
+    "unicorn/no-useless-collection-argument": ["error"],
+    "unicorn/no-zero-fractions": ["error"],
+    "unicorn/number-literal-case": ["error"],
+    "unicorn/numeric-separators-style": ["error"],
+    "unicorn/prefer-array-index-of": ["error"],
+    "unicorn/prefer-bigint-literals": ["error"],
+    "unicorn/prefer-class-fields": ["error"],
+    "unicorn/prefer-classlist-toggle": ["error"],
+    "unicorn/prefer-dom-node-text-content": ["error"],
+    "unicorn/prefer-global-this": ["error"],
+    "unicorn/prefer-includes": ["error"],
+    "unicorn/prefer-logical-operator-over-ternary": ["error"],
+    "unicorn/prefer-modern-dom-apis": ["error"],
+    "unicorn/prefer-negative-index": ["error"],
+    "unicorn/prefer-object-from-entries": ["error"],
+    "unicorn/prefer-optional-catch-binding": ["error"],
+    "unicorn/prefer-reflect-apply": ["error"],
+    "unicorn/prefer-response-static-json": ["error"],
+    "unicorn/prefer-spread": ["error"],
+    "unicorn/prefer-string-raw": ["error"],
+    "unicorn/prefer-string-trim-start-end": ["error"],
+    "unicorn/prefer-structured-clone": ["error"],
+    "unicorn/require-array-join-separator": ["error"],
+    "unicorn/switch-case-braces": ["error"],
+    "unicorn/text-encoding-identifier-case": ["error"],
+    "unicorn/throw-new-error": ["error"]
   }
 }

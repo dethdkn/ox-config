@@ -1,20 +1,13 @@
 {
   "rules": {
-    "vue/define-emits-declaration": [
-      "error"
-    ],
-    "vue/define-props-declaration": [
-      "error",
-      "runtime"
-    ],
+    "vue/define-emits-declaration": ["error"],
+    "vue/define-props-declaration": ["error", "runtime"],
     "vue/define-props-destructuring": [
       "error",
       {
         "destructure": "never"
       }
     ],
-    "vue/require-typed-ref": [
-      "error"
-    ]
+    "vue/require-typed-ref": ["error"]
   }
 }

@@ -1,19 +1,9 @@
 {
   "rules": {
-    "eslint/constructor-super": [
-      "error"
-    ],
-    "eslint/getter-return": [
-      "error"
-    ],
-    "eslint/no-misleading-character-class": [
-      "error"
-    ],
-    "eslint/no-undef": [
-      "off"
-    ],
-    "eslint/no-unreachable": [
-      "error"
-    ]
+    "eslint/constructor-super": ["error"],
+    "eslint/getter-return": ["error"],
+    "eslint/no-misleading-character-class": ["error"],
+    "eslint/no-undef": ["off"],
+    "eslint/no-unreachable": ["error"]
   }
 }

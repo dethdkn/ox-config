@@ -1,58 +1,30 @@
 {
   "rules": {
-    "eslint/class-methods-use-this": [
-      "error"
-    ],
-    "eslint/default-case": [
-      "error"
-    ],
-    "eslint/no-alert": [
-      "error"
-    ],
-    "eslint/no-bitwise": [
-      "error"
-    ],
+    "eslint/class-methods-use-this": ["error"],
+    "eslint/default-case": ["error"],
+    "eslint/no-alert": ["error"],
+    "eslint/no-bitwise": ["error"],
     "eslint/no-console": [
       "error",
       {
-        "allow": [
-          "error"
-        ]
+        "allow": ["error"]
       }
     ],
-    "eslint/no-div-regex": [
-      "error"
-    ],
-    "eslint/no-empty": [
-      "error"
-    ],
-    "eslint/no-empty-function": [
-      "error"
-    ],
-    "eslint/no-eq-null": [
-      "error"
-    ],
-    "eslint/no-iterator": [
-      "error"
-    ],
-    "eslint/no-param-reassign": [
-      "error"
-    ],
+    "eslint/no-div-regex": ["error"],
+    "eslint/no-empty": ["error"],
+    "eslint/no-empty-function": ["error"],
+    "eslint/no-eq-null": ["error"],
+    "eslint/no-iterator": ["error"],
+    "eslint/no-param-reassign": ["error"],
     "eslint/no-plusplus": [
       "error",
       {
         "allowForLoopAfterthoughts": true
       }
     ],
-    "eslint/no-proto": [
-      "error"
-    ],
-    "eslint/no-regex-spaces": [
-      "error"
-    ],
-    "eslint/no-restricted-globals": [
-      "off"
-    ],
+    "eslint/no-proto": ["error"],
+    "eslint/no-regex-spaces": ["error"],
+    "eslint/no-restricted-globals": ["off"],
     "no-restricted-imports": [
       "error",
       [
@@ -74,18 +46,9 @@
         }
       ]
     ],
-    "eslint/no-undefined": [
-      "off"
-    ],
-    "eslint/no-var": [
-      "error"
-    ],
-    "eslint/no-void": [
-      "off"
-    ],
-    "eslint/unicode-bom": [
-      "error",
-      "never"
-    ]
+    "eslint/no-undefined": ["off"],
+    "eslint/no-var": ["error"],
+    "eslint/no-void": ["off"],
+    "eslint/unicode-bom": ["error", "never"]
   }
 }

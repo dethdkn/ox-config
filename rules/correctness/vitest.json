@@ -1,10 +1,6 @@
 {
   "rules": {
-    "vitest/no-conditional-tests": [
-      "error"
-    ],
-    "vitest/require-local-test-context-for-concurrent-snapshots": [
-      "error"
-    ]
+    "vitest/no-conditional-tests": ["error"],
+    "vitest/require-local-test-context-for-concurrent-snapshots": ["error"]
   }
 }

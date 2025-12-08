@@ -1,10 +1,6 @@
 {
   "rules": {
-    "import/export": [
-      "error"
-    ],
-    "import/named": [
-      "error"
-    ]
+    "import/export": ["error"],
+    "import/named": ["error"]
   }
 }

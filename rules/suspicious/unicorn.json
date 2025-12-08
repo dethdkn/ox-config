@@ -1,28 +1,12 @@
 {
   "rules": {
-    "unicorn/consistent-function-scoping": [
-      "error"
-    ],
-    "unicorn/no-accessor-recursion": [
-      "error"
-    ],
-    "unicorn/no-array-reverse": [
-      "error"
-    ],
-    "unicorn/no-array-sort": [
-      "error"
-    ],
-    "unicorn/no-instanceof-builtins": [
-      "error"
-    ],
-    "unicorn/prefer-add-event-listener": [
-      "error"
-    ],
-    "unicorn/require-module-specifiers": [
-      "error"
-    ],
-    "unicorn/require-post-message-target-origin": [
-      "error"
-    ]
+    "unicorn/consistent-function-scoping": ["error"],
+    "unicorn/no-accessor-recursion": ["error"],
+    "unicorn/no-array-reverse": ["error"],
+    "unicorn/no-array-sort": ["error"],
+    "unicorn/no-instanceof-builtins": ["error"],
+    "unicorn/prefer-add-event-listener": ["error"],
+    "unicorn/require-module-specifiers": ["error"],
+    "unicorn/require-post-message-target-origin": ["error"]
   }
 }

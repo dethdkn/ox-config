@@ -1,7 +1,5 @@
 {
   "rules": {
-    "oxc/no-accumulating-spread": [
-      "error"
-    ]
+    "oxc/no-accumulating-spread": ["error"]
   }
 }

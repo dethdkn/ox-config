@@ -6,26 +6,12 @@
         "checkTypeImports": true
       }
     ],
-    "import/no-amd": [
-      "error"
-    ],
-    "import/no-commonjs": [
-      "error"
-    ],
-    "import/no-cycle": [
-      "error"
-    ],
-    "import/no-default-export": [
-      "off"
-    ],
-    "import/no-dynamic-require": [
-      "error"
-    ],
-    "import/no-webpack-loader-syntax": [
-      "error"
-    ],
-    "import/unambiguous": [
-      "off"
-    ]
+    "import/no-amd": ["error"],
+    "import/no-commonjs": ["error"],
+    "import/no-cycle": ["error"],
+    "import/no-default-export": ["off"],
+    "import/no-dynamic-require": ["error"],
+    "import/no-webpack-loader-syntax": ["error"],
+    "import/unambiguous": ["off"]
   }
 }

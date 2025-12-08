@@ -1,7 +1,5 @@
 {
   "rules": {
-    "promise/no-return-in-finally": [
-      "error"
-    ]
+    "promise/no-return-in-finally": ["error"]
   }
 }

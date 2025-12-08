@@ -1,22 +1,10 @@
 {
   "rules": {
-    "import/no-absolute-path": [
-      "error"
-    ],
-    "import/no-empty-named-blocks": [
-      "error"
-    ],
-    "import/no-named-as-default": [
-      "error"
-    ],
-    "import/no-named-as-default-member": [
-      "error"
-    ],
-    "import/no-self-import": [
-      "error"
-    ],
-    "import/no-unassigned-import": [
-      "error"
-    ]
+    "import/no-absolute-path": ["error"],
+    "import/no-empty-named-blocks": ["error"],
+    "import/no-named-as-default": ["error"],
+    "import/no-named-as-default-member": ["error"],
+    "import/no-self-import": ["error"],
+    "import/no-unassigned-import": ["error"]
   }
 }

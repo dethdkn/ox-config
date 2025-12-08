@@ -6,71 +6,27 @@
         "ts-expect-error": "allow-with-description"
       }
     ],
-    "typescript/ban-types": [
-      "error"
-    ],
-    "typescript/no-confusing-void-expression": [
-      "error"
-    ],
-    "typescript/no-deprecated": [
-      "error"
-    ],
-    "typescript/no-misused-promises": [
-      "error"
-    ],
-    "typescript/no-mixed-enums": [
-      "error"
-    ],
-    "typescript/no-unsafe-argument": [
-      "error"
-    ],
-    "typescript/no-unsafe-assignment": [
-      "error"
-    ],
-    "typescript/no-unsafe-call": [
-      "error"
-    ],
-    "typescript/no-unsafe-function-type": [
-      "error"
-    ],
-    "typescript/no-unsafe-member-access": [
-      "error"
-    ],
-    "typescript/no-unsafe-return": [
-      "error"
-    ],
-    "typescript/only-throw-error": [
-      "error"
-    ],
-    "typescript/prefer-enum-initializers": [
-      "error"
-    ],
-    "typescript/prefer-includes": [
-      "error"
-    ],
-    "typescript/prefer-promise-reject-errors": [
-      "error"
-    ],
-    "typescript/prefer-ts-expect-error": [
-      "error"
-    ],
-    "typescript/related-getter-setter-pairs": [
-      "error"
-    ],
-    "typescript/require-await": [
-      "error"
-    ],
-    "typescript/restrict-plus-operands": [
-      "error"
-    ],
-    "typescript/return-await": [
-      "error"
-    ],
-    "typescript/strict-boolean-expressions": [
-      "off"
-    ],
-    "typescript/switch-exhaustiveness-check": [
-      "error"
-    ]
+    "typescript/ban-types": ["error"],
+    "typescript/no-confusing-void-expression": ["error"],
+    "typescript/no-deprecated": ["error"],
+    "typescript/no-misused-promises": ["error"],
+    "typescript/no-mixed-enums": ["error"],
+    "typescript/no-unsafe-argument": ["error"],
+    "typescript/no-unsafe-assignment": ["error"],
+    "typescript/no-unsafe-call": ["error"],
+    "typescript/no-unsafe-function-type": ["error"],
+    "typescript/no-unsafe-member-access": ["error"],
+    "typescript/no-unsafe-return": ["error"],
+    "typescript/only-throw-error": ["error"],
+    "typescript/prefer-enum-initializers": ["error"],
+    "typescript/prefer-includes": ["error"],
+    "typescript/prefer-promise-reject-errors": ["error"],
+    "typescript/prefer-ts-expect-error": ["error"],
+    "typescript/related-getter-setter-pairs": ["error"],
+    "typescript/require-await": ["error"],
+    "typescript/restrict-plus-operands": ["error"],
+    "typescript/return-await": ["error"],
+    "typescript/strict-boolean-expressions": ["off"],
+    "typescript/switch-exhaustiveness-check": ["error"]
   }
 }

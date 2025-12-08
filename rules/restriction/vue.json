@@ -1,13 +1,7 @@
 {
   "rules": {
-    "vue/max-props": [
-      "off"
-    ],
-    "vue/no-import-compiler-macros": [
-      "error"
-    ],
-    "vue/no-multiple-slot-args": [
-      "error"
-    ]
+    "vue/max-props": ["off"],
+    "vue/no-import-compiler-macros": ["error"],
+    "vue/no-multiple-slot-args": ["error"]
   }
 }

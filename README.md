@@ -24,6 +24,7 @@
 2. Create a `.oxfmtrc.json` file in the project root and copy the configuration from [github.com/dethdkn/ox-config/.oxfmtrc.json](https://github.com/dethdkn/ox-config/blob/main/.oxfmtrc.json).
 
 3. Create a `.oxlintrc.json` in the project root:
+
 ```json
 {
   "extends": ["./node_modules/@dethdkn/ox-config/.oxlintrc.json"]
@@ -31,12 +32,13 @@
 ```
 
 4. Add lint scripts to `package.json`:
+
 ```json
 {
   "scripts": {
     "fmt": "oxfmt",
     "lint": "oxlint --type-aware",
-    "lint:fix": "oxlint --type-aware --fix",
+    "lint:fix": "oxlint --type-aware --fix"
   }
 }
 ```
@@ -44,6 +46,7 @@
 4. Install the [OXC VS Code extension](https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode).
 
 5. Add the following configuration to `.vscode/settings.json`:
+
 ```json
 {
   // Use OXC as the default code formatter in VSCode
