@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "jsdoc/check-access": [
+      "error"
+    ],
+    "jsdoc/empty-tags": [
+      "error"
+    ]
+  }
+}

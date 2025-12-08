@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "vitest/no-import-node-test": [
+      "error"
+    ],
+    "vitest/prefer-to-be-falsy": [
+      "error"
+    ],
+    "vitest/prefer-to-be-object": [
+      "error"
+    ],
+    "vitest/prefer-to-be-truthy": [
+      "error"
+    ]
+  }
+}

@@ -18,6 +18,8 @@
   },
   "bugs": "https://github.com/dethdkn/ox-config/issues",
   "keywords": [
+    "oxfmt",
+    "oxfmt-config",
     "oxlint",
     "oxlint-config"
   ],
@@ -26,6 +28,7 @@
     "./.oxlintrc.json": "./.oxlintrc.json"
   },
   "files": [
+    "rules",
     ".oxfmtrc.json",
     ".oxlintrc.json"
   ],
@@ -36,13 +39,13 @@
     "release": "bun fmt && bun lint && bumpp && sudo npm publish"
   },
   "devDependencies": {
-    "@types/bun": "latest",
     "bumpp": "^10.3.2",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vue": "^3.5.25"
   },
   "dependencies": {
-    "oxfmt": "^0.16.0",
-    "oxlint": "^1.31.0",
-    "oxlint-tsgolint": "^0.8.3"
+    "oxfmt": "^0.17.0",
+    "oxlint": "^1.32.0",
+    "oxlint-tsgolint": "^0.8.4"
   }
 }

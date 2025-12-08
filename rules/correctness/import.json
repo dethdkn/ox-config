@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "import/default": [
+      "error"
+    ],
+    "import/namespace": [
+      "error"
+    ]
+  }
+}

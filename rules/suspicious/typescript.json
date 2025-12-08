@@ -1,0 +1,31 @@
+{
+  "rules": {
+    "typescript/no-confusing-non-null-assertion": [
+      "error"
+    ],
+    "typescript/no-extraneous-class": [
+      "error"
+    ],
+    "typescript/no-unnecessary-boolean-literal-compare": [
+      "error"
+    ],
+    "typescript/no-unnecessary-template-expression": [
+      "error"
+    ],
+    "typescript/no-unnecessary-type-arguments": [
+      "error"
+    ],
+    "typescript/no-unnecessary-type-assertion": [
+      "error"
+    ],
+    "typescript/no-unnecessary-type-constraint": [
+      "error"
+    ],
+    "typescript/no-unsafe-enum-comparison": [
+      "error"
+    ],
+    "typescript/no-unsafe-type-assertion": [
+      "error"
+    ]
+  }
+}

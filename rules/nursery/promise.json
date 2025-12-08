@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "promise/no-return-in-finally": [
+      "error"
+    ]
+  }
+}

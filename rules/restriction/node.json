@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "node/no-new-require": [
+      "error"
+    ],
+    "node/no-process-env": [
+      "error"
+    ]
+  }
+}

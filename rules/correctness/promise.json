@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "promise/no-callback-in-promise": [
+      "error"
+    ],
+    "promise/no-new-statics": [
+      "error"
+    ],
+    "promise/valid-params": [
+      "error"
+    ]
+  }
+}

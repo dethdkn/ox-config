@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "import/export": [
+      "error"
+    ],
+    "import/named": [
+      "error"
+    ]
+  }
+}

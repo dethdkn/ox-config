@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "oxc/bad-bitwise-operator": [
+      "error"
+    ],
+    "oxc/no-async-await": [
+      "off"
+    ],
+    "oxc/no-barrel-file": [
+      "error"
+    ],
+    "oxc/no-const-enum": [
+      "error"
+    ],
+    "oxc/no-optional-chaining": [
+      "off"
+    ],
+    "oxc/no-rest-spread-properties": [
+      "off"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "oxc/approx-constant": [
+      "error"
+    ],
+    "oxc/misrefactored-assign-op": [
+      "error"
+    ],
+    "oxc/no-async-endpoint-handlers": [
+      "off"
+    ]
+  }
+}

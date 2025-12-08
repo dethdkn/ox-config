@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "import/max-dependencies": [
+      "off"
+    ]
+  }
+}

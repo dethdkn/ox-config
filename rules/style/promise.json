@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "promise/avoid-new": [
+      "error"
+    ],
+    "promise/no-nesting": [
+      "error"
+    ],
+    "promise/no-return-wrap": [
+      "error"
+    ],
+    "promise/param-names": [
+      "error"
+    ],
+    "promise/prefer-await-to-callbacks": [
+      "error"
+    ],
+    "promise/prefer-await-to-then": [
+      "error"
+    ],
+    "promise/prefer-catch": [
+      "error"
+    ]
+  }
+}

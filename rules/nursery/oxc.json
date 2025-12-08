@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "oxc/branches-sharing-code": [
+      "error"
+    ],
+    "oxc/no-map-spread": [
+      "error"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "vue/no-required-prop-with-default": [
+      "error"
+    ],
+    "vue/require-default-export": [
+      "error"
+    ]
+  }
+}

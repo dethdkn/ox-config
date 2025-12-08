@@ -1,0 +1,31 @@
+{
+  "rules": {
+    "eslint/block-scoped-var": [
+      "error"
+    ],
+    "eslint/no-extend-native": [
+      "error"
+    ],
+    "eslint/no-extra-bind": [
+      "error"
+    ],
+    "eslint/no-new": [
+      "error"
+    ],
+    "eslint/no-unexpected-multiline": [
+      "error"
+    ],
+    "eslint/no-unneeded-ternary": [
+      "error"
+    ],
+    "eslint/no-useless-concat": [
+      "error"
+    ],
+    "eslint/no-useless-constructor": [
+      "error"
+    ],
+    "eslint/preserve-caught-error": [
+      "error"
+    ]
+  }
+}

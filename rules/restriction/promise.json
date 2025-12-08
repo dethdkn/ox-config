@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "promise/catch-or-return": [
+      "error"
+    ],
+    "promise/spec-only": [
+      "error"
+    ]
+  }
+}

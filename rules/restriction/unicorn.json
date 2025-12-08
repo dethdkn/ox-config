@@ -1,0 +1,40 @@
+{
+  "rules": {
+    "unicorn/no-abusive-eslint-disable": [
+      "error"
+    ],
+    "unicorn/no-anonymous-default-export": [
+      "off"
+    ],
+    "unicorn/no-array-for-each": [
+      "error"
+    ],
+    "unicorn/no-array-reduce": [
+      "error"
+    ],
+    "unicorn/no-document-cookie": [
+      "error"
+    ],
+    "unicorn/no-length-as-slice-end": [
+      "error"
+    ],
+    "unicorn/no-magic-array-flat-depth": [
+      "error"
+    ],
+    "unicorn/no-process-exit": [
+      "error"
+    ],
+    "unicorn/no-useless-error-capture-stack-trace": [
+      "error"
+    ],
+    "unicorn/prefer-modern-math-apis": [
+      "error"
+    ],
+    "unicorn/prefer-node-protocol": [
+      "off"
+    ],
+    "unicorn/prefer-number-properties": [
+      "error"
+    ]
+  }
+}

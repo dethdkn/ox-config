@@ -1,0 +1,52 @@
+{
+  "rules": {
+    "typescript/explicit-function-return-type": [
+      "error"
+    ],
+    "typescript/explicit-module-boundary-types": [
+      "error"
+    ],
+    "typescript/no-dynamic-delete": [
+      "error"
+    ],
+    "typescript/no-empty-object-type": [
+      "error"
+    ],
+    "typescript/no-explicit-any": [
+      "error"
+    ],
+    "typescript/no-import-type-side-effects": [
+      "error"
+    ],
+    "typescript/no-namespace": [
+      "error"
+    ],
+    "typescript/no-non-null-asserted-nullish-coalescing": [
+      "error"
+    ],
+    "typescript/no-non-null-assertion": [
+      "error"
+    ],
+    "typescript/no-require-imports": [
+      "error"
+    ],
+    "typescript/no-restricted-types": [
+      "off"
+    ],
+    "typescript/no-var-requires": [
+      "error"
+    ],
+    "typescript/non-nullable-type-assertion-style": [
+      "off"
+    ],
+    "typescript/prefer-literal-enum-member": [
+      "error"
+    ],
+    "typescript/promise-function-async": [
+      "error"
+    ],
+    "typescript/use-unknown-in-catch-callback-variable": [
+      "error"
+    ]
+  }
+}

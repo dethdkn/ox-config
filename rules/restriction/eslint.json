@@ -1,0 +1,91 @@
+{
+  "rules": {
+    "eslint/class-methods-use-this": [
+      "error"
+    ],
+    "eslint/default-case": [
+      "error"
+    ],
+    "eslint/no-alert": [
+      "error"
+    ],
+    "eslint/no-bitwise": [
+      "error"
+    ],
+    "eslint/no-console": [
+      "error",
+      {
+        "allow": [
+          "error"
+        ]
+      }
+    ],
+    "eslint/no-div-regex": [
+      "error"
+    ],
+    "eslint/no-empty": [
+      "error"
+    ],
+    "eslint/no-empty-function": [
+      "error"
+    ],
+    "eslint/no-eq-null": [
+      "error"
+    ],
+    "eslint/no-iterator": [
+      "error"
+    ],
+    "eslint/no-param-reassign": [
+      "error"
+    ],
+    "eslint/no-plusplus": [
+      "error",
+      {
+        "allowForLoopAfterthoughts": true
+      }
+    ],
+    "eslint/no-proto": [
+      "error"
+    ],
+    "eslint/no-regex-spaces": [
+      "error"
+    ],
+    "eslint/no-restricted-globals": [
+      "off"
+    ],
+    "no-restricted-imports": [
+      "error",
+      [
+        {
+          "name": "vue",
+          "message": "Do not manually import from 'vue' in a Nuxt project. Nuxt automatically provides Vue APIs. If you are not using Nuxt, override this rule."
+        },
+        {
+          "name": "@vueuse/core",
+          "message": "Do not manually import VueUse utilities in Nuxt. Use auto-imports instead. If you are not using Nuxt, override this rule."
+        },
+        {
+          "name": "#app",
+          "message": "Do not import from '#app'. These APIs are auto-imported in Nuxt. If you are not using Nuxt, override this rule."
+        },
+        {
+          "name": "vue-router",
+          "message": "Do not manually import from 'vue-router' in Nuxt. Use the router composables provided by auto-imports. If you are not using Nuxt, override this rule."
+        }
+      ]
+    ],
+    "eslint/no-undefined": [
+      "error"
+    ],
+    "eslint/no-var": [
+      "error"
+    ],
+    "eslint/no-void": [
+      "off"
+    ],
+    "eslint/unicode-bom": [
+      "error",
+      "never"
+    ]
+  }
+}
