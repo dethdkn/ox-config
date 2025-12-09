@@ -10,11 +10,11 @@
     "ignoreCase": true,
     "newlinesBetween": true,
     "groups": [
-      ["side-effect"],
       ["builtin"],
       ["external"],
       ["internal"],
       ["parent", "sibling"],
+      ["side-effect"],
       ["index"]
     ],
     "sortSideEffects": true
