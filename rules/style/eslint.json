@@ -19,7 +19,7 @@
     "eslint/max-params": ["off"],
     "eslint/new-cap": ["error"],
     "eslint/no-continue": ["error"],
-    "eslint/no-duplicate-imports": ["error"],
+    "eslint/no-duplicate-imports": ["error", { "allowSeparateTypeImports": true }],
     "eslint/no-extra-label": ["error"],
     "eslint/no-label-var": ["error"],
     "eslint/no-labels": ["error"],
