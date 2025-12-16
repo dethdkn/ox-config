@@ -1,5 +1,6 @@
 {
   "rules": {
+    "eslint/constructor-super": ["error"],
     "eslint/for-direction": ["error"],
     "eslint/no-async-promise-executor": ["error"],
     "eslint/no-caller": ["error"],

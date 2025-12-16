@@ -46,6 +46,7 @@
         }
       ]
     ],
+    "eslint/no-sequences": ["error"],
     "eslint/no-undefined": ["off"],
     "eslint/no-var": ["error"],
     "eslint/no-void": ["off"],
