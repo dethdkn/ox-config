@@ -7,6 +7,7 @@
     "unicorn/new-for-builtins": ["error"],
     "unicorn/no-array-callback-reference": ["error"],
     "unicorn/no-hex-escape": ["error"],
+    "unicorn/no-immediate-mutation": ["error"],
     "unicorn/no-instanceof-array": ["error"],
     "unicorn/no-lonely-if": ["error"],
     "unicorn/no-negation-in-equality-check": ["error"],

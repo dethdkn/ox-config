@@ -1,6 +1,7 @@
 {
   "rules": {
     "eslint/arrow-body-style": ["error", "as-needed"],
+    "eslint/capitalized-comments": ["error"],
     "eslint/curly": ["error", "multi-line"],
     "eslint/default-case-last": ["error"],
     "eslint/default-param-last": ["error"],
@@ -17,6 +18,7 @@
     "eslint/id-length": ["error", { "exceptions": ["_", "i", "j", "k", "l", "t"] }],
     "eslint/init-declarations": ["off"],
     "eslint/max-params": ["off"],
+    "eslint/max-statements": ["off"],
     "eslint/new-cap": ["error"],
     "eslint/no-continue": ["error"],
     "eslint/no-duplicate-imports": ["error", { "allowSeparateTypeImports": true }],

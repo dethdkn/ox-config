@@ -1,6 +1,7 @@
 {
   "rules": {
     "eslint/class-methods-use-this": ["error"],
+    "eslint/complexity": ["off"],
     "eslint/default-case": ["error"],
     "eslint/no-alert": ["error"],
     "eslint/no-bitwise": ["error"],

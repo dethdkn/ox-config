@@ -19,6 +19,16 @@
     ],
     "sortSideEffects": true
   },
+  "experimentalSortPackageJson": true,
+  "experimentalTailwindcss": {
+    "attributes": ["class", "className"],
+    "config": "./tailwind.config.js",
+    "functions": [],
+    "preserveDuplicates": false,
+    "preserveWhitespace": false,
+    "stylesheet": "./app/assets/main.css"
+  },
+  "insertFinalNewline": true,
   "jsxSingleQuote": false,
   "objectWrap": "preserve",
   "printWidth": 100,

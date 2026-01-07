@@ -37,6 +37,7 @@
     "unicorn/prefer-string-trim-start-end": ["error"],
     "unicorn/prefer-structured-clone": ["error"],
     "unicorn/require-array-join-separator": ["error"],
+    "unicorn/require-module-attributes": ["error"],
     "unicorn/switch-case-braces": ["error"],
     "unicorn/text-encoding-identifier-case": ["error"],
     "unicorn/throw-new-error": ["error"]

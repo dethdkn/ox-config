@@ -10,27 +10,27 @@
   ],
   "homepage": "https://github.com/dethdkn/ox-config",
   "bugs": "https://github.com/dethdkn/ox-config/issues",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dethdkn/ox-config.git"
-  },
+  "license": "MIT",
   "author": {
     "name": "Gabriel 'DethDKN' Rosa",
     "email": "gabriel@rosa.dev.br",
     "url": "https://rosa.dev.br"
   },
-  "funding": "https://github.com/sponsors/dethdkn",
-  "license": "MIT",
-  "type": "module",
-  "exports": {
-    "./.oxfmtrc.json": "./.oxfmtrc.json",
-    "./.oxlintrc.json": "./.oxlintrc.json"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dethdkn/ox-config.git"
   },
+  "funding": "https://github.com/sponsors/dethdkn",
   "files": [
     ".oxfmtrc.json",
     ".oxlintrc.json",
     "rules"
   ],
+  "type": "module",
+  "exports": {
+    "./.oxfmtrc.json": "./.oxfmtrc.json",
+    "./.oxlintrc.json": "./.oxlintrc.json"
+  },
   "scripts": {
     "fmt": "oxfmt --check",
     "fmt:fix": "oxfmt",
@@ -39,14 +39,14 @@
     "release": "bun fmt && bun lint && bumpp && sudo npm publish"
   },
   "dependencies": {
-    "oxfmt": "^0.18.0",
-    "oxlint": "^1.33.0",
-    "oxlint-tsgolint": "^0.9.1"
+    "oxfmt": "^0.23.0",
+    "oxlint": "^1.38.0",
+    "oxlint-tsgolint": "^0.10.1"
   },
   "devDependencies": {
     "bumpp": "^10.3.2",
     "typescript": "^5.9.3",
-    "vue": "^3.5.25"
+    "vue": "^3.5.26"
   },
   "packageManager": "bun@1.3.3"
 }
