@@ -2,6 +2,8 @@
   "rules": {
     "vitest/no-conditional-tests": ["error"],
     "vitest/require-local-test-context-for-concurrent-snapshots": ["error"],
-    "vitest/warn-todo": ["error"]
+    "vitest/warn-todo": ["error"],
+    "vitest/consistent-each-for": ["error"],
+    "vitest/hoisted-apis-on-top": ["error"]
   }
 }

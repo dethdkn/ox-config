@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "typescript/prefer-optional-chain": ["error"]
+  }
+}

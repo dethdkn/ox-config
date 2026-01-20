@@ -53,9 +53,6 @@
   // Use OXC as the default code formatter in VSCode
   "editor.defaultFormatter": "oxc.oxc-vscode",
 
-  // Enable experimental features for the OXC formatter (fmt)
-  "oxc.fmt.experimental": true,
-
   // Automatically format files whenever you save them
   "editor.formatOnSave": true,
 
@@ -64,12 +61,15 @@
     "source.fixAll.oxc": "explicit"
   },
 
-  // Run OXC linter automatically on save
-  "oxc.lint.run": "onSave"
+  // Enable type-aware linting
+  "oxc.typeAware": true,
+
+  // Run OXC linter automatically on type
+  "oxc.lint.run": "onType"
 }
 ```
 
 ## 📝 License
 
-Copyright © 2025 [Gabriel 'DethDKN' Rosa](https://github.com/dethdkn)\
+Copyright © 2026 [Gabriel 'DethDKN' Rosa](https://github.com/dethdkn)\
 This project is under [MIT license](https://github.com/dethdkn/ox-config/blob/main/LICENSE)

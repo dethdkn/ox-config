@@ -28,15 +28,18 @@
     "preserveWhitespace": false,
     "stylesheet": "./app/assets/main.css"
   },
+  "htmlWhitespaceSensitivity": "css",
   "insertFinalNewline": true,
   "jsxSingleQuote": false,
   "objectWrap": "preserve",
   "printWidth": 100,
+  "proseWrap": "preserve",
   "quoteProps": "as-needed",
   "semi": false,
   "singleAttributePerLine": false,
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "all",
-  "useTabs": false
+  "useTabs": false,
+  "vueIndentScriptAndStyle": true
 }
