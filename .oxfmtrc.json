@@ -22,7 +22,6 @@
   "experimentalSortPackageJson": true,
   "experimentalTailwindcss": {
     "attributes": ["class", "className"],
-    "config": "./tailwind.config.js",
     "functions": [],
     "preserveDuplicates": false,
     "preserveWhitespace": false,
