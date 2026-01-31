@@ -41,7 +41,7 @@
   "dependencies": {
     "oxfmt": "^0.27.0",
     "oxlint": "^1.42.0",
-    "oxlint-tsgolint": "^0.11.2"
+    "oxlint-tsgolint": "^0.11.4"
   },
   "devDependencies": {
     "bumpp": "^10.4.0",
