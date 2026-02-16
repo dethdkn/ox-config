@@ -8,6 +8,8 @@
     "eslint/no-unneeded-ternary": ["error"],
     "eslint/no-useless-concat": ["error"],
     "eslint/no-useless-constructor": ["error"],
-    "eslint/preserve-caught-error": ["error"]
+    "eslint/preserve-caught-error": ["error"],
+    "eslint/no-shadow": ["error"],
+    "eslint/no-unmodified-loop-condition": ["error"]
   }
 }

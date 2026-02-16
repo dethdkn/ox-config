@@ -1,5 +1,6 @@
 {
   "rules": {
-    "typescript/prefer-optional-chain": ["error"]
+    "typescript/prefer-optional-chain": ["error"],
+    "typescript/no-unnecessary-condition": ["error"]
   }
 }

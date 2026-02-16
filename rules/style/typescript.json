@@ -13,6 +13,8 @@
     "typescript/prefer-function-type": ["error"],
     "typescript/prefer-reduce-type-parameter": ["error"],
     "typescript/prefer-return-this-type": ["error"],
-    "typescript/class-literal-property-style": ["error"]
+    "typescript/class-literal-property-style": ["error"],
+    "typescript/unified-signatures": ["error"],
+    "typescript/parameter-properties": ["error"]
   }
 }
