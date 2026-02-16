@@ -51,6 +51,8 @@
     "eslint/no-with": ["error"],
     "eslint/require-yield": ["error"],
     "eslint/use-isnan": ["error"],
-    "eslint/valid-typeof": ["error"]
+    "eslint/valid-typeof": ["error"],
+    "eslint/no-misleading-character-class": ["error"],
+    "eslint/no-iterator": ["error"]
   }
 }

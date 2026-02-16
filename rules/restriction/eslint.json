@@ -15,7 +15,6 @@
     "eslint/no-empty": ["error"],
     "eslint/no-empty-function": ["error"],
     "eslint/no-eq-null": ["error"],
-    "eslint/no-iterator": ["error"],
     "eslint/no-param-reassign": ["error"],
     "eslint/no-plusplus": [
       "error",

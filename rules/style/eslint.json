@@ -59,6 +59,7 @@
     ],
     "eslint/sort-keys": ["off"],
     "eslint/vars-on-top": ["error"],
-    "eslint/yoda": ["error"]
+    "eslint/yoda": ["error"],
+    "eslint/prefer-const": ["error"]
   }
 }

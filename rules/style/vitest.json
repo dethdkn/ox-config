@@ -9,6 +9,7 @@
     "vitest/prefer-to-be-truthy": ["error"],
     "vitest/prefer-called-once": ["off"],
     "vitest/prefer-describe-function-title": ["error"],
-    "vitest/no-unneeded-async-expect-function": ["error"]
+    "vitest/no-unneeded-async-expect-function": ["error"],
+    "vitest/prefer-expect-type-of": ["error"]
   }
 }
