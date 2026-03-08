@@ -1,6 +1,18 @@
 {
   "rules": {
     "typescript/prefer-optional-chain": ["error"],
-    "typescript/no-unnecessary-condition": ["error"]
+    "typescript/no-unnecessary-condition": ["error"],
+    "typescript/dot-notation": ["error"],
+    "typescript/no-useless-default-assignment": ["error"],
+    "typescript/no-unnecessary-type-parameters": ["error"],
+    "typescript/consistent-return": ["error"],
+    "typescript/prefer-string-starts-ends-with": ["error"],
+    "typescript/prefer-regexp-exec": ["error"],
+    "typescript/prefer-readonly": ["error"],
+    "typescript/no-unnecessary-qualifier": ["error"],
+    "typescript/prefer-find": ["error"],
+    "typescript/prefer-readonly-parameter-types": ["off"],
+    "typescript/strict-void-return": ["error"],
+    "typescript/consistent-type-exports": ["error"]
   }
 }

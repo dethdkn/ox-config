@@ -10,6 +10,8 @@
     "vitest/prefer-called-once": ["off"],
     "vitest/prefer-describe-function-title": ["error"],
     "vitest/no-unneeded-async-expect-function": ["error"],
-    "vitest/prefer-expect-type-of": ["error"]
+    "vitest/prefer-expect-type-of": ["error"],
+    "vitest/no-importing-vitest-globals": ["off"],
+    "vitest/prefer-import-in-mock": ["error"]
   }
 }
