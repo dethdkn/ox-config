@@ -13,6 +13,7 @@
     "typescript/prefer-find": ["error"],
     "typescript/prefer-readonly-parameter-types": ["off"],
     "typescript/strict-void-return": ["error"],
-    "typescript/consistent-type-exports": ["error"]
+    "typescript/consistent-type-exports": ["error"],
+    "typescript/no-unnecessary-type-conversion": ["error"]
   }
 }
