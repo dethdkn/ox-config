@@ -3,7 +3,7 @@
   "env": {
     "browser": true,
     "node": true,
-    "es2024": true
+    "es2024": true,
   },
   "plugins": [
     "eslint",
@@ -15,7 +15,7 @@
     "node",
     "promise",
     "vitest",
-    "vue"
+    "vue",
   ],
   "jsPlugins": [],
   "extends": [
@@ -64,6 +64,11 @@
     "./rules/nursery/typescript.json",
     "./rules/nursery/oxc.json",
     "./rules/nursery/import.json",
-    "./rules/nursery/promise.json"
-  ]
+    "./rules/nursery/promise.json",
+    "./jsrules/nuxt.json",
+    "./jsrules/antfu.json",
+    "./jsrules/harlanzw.json",
+    "./jsrules/regexp.json",
+    "./jsrules/security.json",
+  ],
 }

@@ -1,0 +1,9 @@
+{
+  "jsPlugins": ["@nuxt/eslint-plugin"],
+  "rules": {
+    "@nuxt/no-nuxt-config-test-key": "error",
+    "@nuxt/no-page-meta-runtime-values": "error",
+    "@nuxt/nuxt-config-keys-order": "error",
+    "@nuxt/prefer-import-meta": "error"
+  }
+}

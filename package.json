@@ -40,8 +40,13 @@
     "release": "bun run prerelease && bumpp && sudo npm publish"
   },
   "dependencies": {
-    "oxfmt": "^0.37.0",
-    "oxlint": "^1.52.0",
+    "@nuxt/eslint-plugin": "^1.15.2",
+    "eslint-plugin-antfu": "^3.2.2",
+    "eslint-plugin-harlanzw": "^0.5.17",
+    "eslint-plugin-regexp": "^3.1.0",
+    "eslint-plugin-security": "^4.0.0",
+    "oxfmt": "^0.40.0",
+    "oxlint": "^1.55.0",
     "oxlint-tsgolint": "^0.16.0"
   },
   "devDependencies": {

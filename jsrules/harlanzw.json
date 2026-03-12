@@ -1,0 +1,28 @@
+{
+  "jsPlugins": [{ "name": "harlanzw", "specifier": "./harlanzw-wrapper.js" }],
+  "rules": {
+    "harlanzw/link-ascii-only": ["error", { "ignoreExternal": true }],
+    "harlanzw/link-lowercase": ["error", { "ignoreExternal": true }],
+    "harlanzw/link-no-double-slashes": ["error", { "ignoreExternal": true }],
+    "harlanzw/link-no-underscores": ["error", { "ignoreExternal": true }],
+    "harlanzw/link-no-whitespace": ["error", { "ignoreExternal": true }],
+    "harlanzw/link-require-descriptive-text": "off",
+    "harlanzw/link-require-href": "error",
+    "harlanzw/link-trailing-slash": "off",
+    "harlanzw/nuxt-await-navigate-to": "error",
+    "harlanzw/nuxt-no-random": "error",
+    "harlanzw/nuxt-no-redundant-import-meta": "error",
+    "harlanzw/nuxt-no-side-effects-in-async-data-handler": "error",
+    "harlanzw/nuxt-no-side-effects-in-setup": "error",
+    "harlanzw/nuxt-no-unsafe-date": "error",
+    "harlanzw/nuxt-prefer-navigate-to-over-router-push-replace": "error",
+    "harlanzw/nuxt-prefer-nuxt-link-over-router-link": "error",
+    "harlanzw/vue-no-faux-composables": "error",
+    "harlanzw/vue-no-nested-reactivity": "error",
+    "harlanzw/vue-no-passing-refs-as-props": "off",
+    "harlanzw/vue-no-reactive-destructuring": "error",
+    "harlanzw/vue-no-ref-access-in-templates": "error",
+    "harlanzw/vue-no-torefs-on-props": "error",
+    "harlanzw/vue-require-composable-prefix": "error"
+  }
+}
