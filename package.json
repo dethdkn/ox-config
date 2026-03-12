@@ -24,7 +24,8 @@
   "files": [
     ".oxfmtrc.json",
     ".oxlintrc.json",
-    "rules"
+    "rules",
+    "jsrules"
   ],
   "type": "module",
   "exports": {
