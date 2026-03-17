@@ -2,6 +2,7 @@
   "rules": {
     "node/no-new-require": ["error"],
     "node/no-process-env": ["error"],
-    "node/no-path-concat": ["error"]
+    "node/no-path-concat": ["error"],
+    "node/handle-callback-err": ["error", "^(err|error)$"]
   }
 }

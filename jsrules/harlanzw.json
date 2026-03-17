@@ -17,12 +17,14 @@
     "harlanzw/nuxt-no-unsafe-date": "error",
     "harlanzw/nuxt-prefer-navigate-to-over-router-push-replace": "error",
     "harlanzw/nuxt-prefer-nuxt-link-over-router-link": "error",
+    "harlanzw/nuxt-ui-prefer-shorthand-css": "error",
     "harlanzw/vue-no-faux-composables": "error",
     "harlanzw/vue-no-nested-reactivity": "error",
     "harlanzw/vue-no-passing-refs-as-props": "off",
     "harlanzw/vue-no-reactive-destructuring": "error",
     "harlanzw/vue-no-ref-access-in-templates": "error",
     "harlanzw/vue-no-torefs-on-props": "error",
+    "harlanzw/vue-no-resolve-component-in-composables": "error",
     "harlanzw/vue-require-composable-prefix": "error"
   }
 }
