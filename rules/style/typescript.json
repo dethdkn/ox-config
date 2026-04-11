@@ -15,6 +15,12 @@
     "typescript/prefer-return-this-type": ["error"],
     "typescript/class-literal-property-style": ["error"],
     "typescript/unified-signatures": ["error"],
-    "typescript/parameter-properties": ["error"]
+    "typescript/parameter-properties": ["error"],
+    "typescript/prefer-string-starts-ends-with": ["error"],
+    "typescript/prefer-readonly": ["error"],
+    "typescript/prefer-regexp-exec": ["error"],
+    "typescript/prefer-find": ["error"],
+    "typescript/dot-notation": ["error"],
+    "typescript/consistent-type-exports": ["error"]
   }
 }

@@ -12,6 +12,8 @@
     "vitest/no-unneeded-async-expect-function": ["error"],
     "vitest/prefer-expect-type-of": ["error"],
     "vitest/no-importing-vitest-globals": ["off"],
-    "vitest/prefer-import-in-mock": ["error"]
+    "vitest/prefer-import-in-mock": ["error"],
+    "vitest/prefer-strict-boolean-matchers": ["error"],
+    "vitest/prefer-called-exactly-once-with": ["error"]
   }
 }

@@ -2,6 +2,8 @@
   "rules": {
     "eslint/getter-return": ["error"],
     "eslint/no-undef": ["off"],
-    "eslint/no-unreachable": ["error"]
+    "eslint/no-unreachable": ["error"],
+    "eslint/no-restricted-exports": ["off"],
+    "eslint/no-useless-assignment": ["off"]
   }
 }

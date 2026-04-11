@@ -41,6 +41,8 @@
     "unicorn/switch-case-braces": ["error"],
     "unicorn/text-encoding-identifier-case": ["error"],
     "unicorn/throw-new-error": ["error"],
-    "unicorn/relative-url-style": ["error"]
+    "unicorn/relative-url-style": ["error"],
+    "unicorn/custom-error-definition": ["error"],
+    "unicorn/switch-case-break-position": ["error"]
   }
 }

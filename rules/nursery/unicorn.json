@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "unicorn/no-useless-iterator-to-array": ["error"]
+  }
+}
