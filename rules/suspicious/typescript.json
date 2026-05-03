@@ -10,6 +10,7 @@
     "typescript/no-unsafe-enum-comparison": ["error"],
     "typescript/no-unsafe-type-assertion": ["error"],
     "typescript/consistent-return": ["error"],
-    "typescript/no-unnecessary-type-conversion": ["error"]
+    "typescript/no-unnecessary-type-conversion": ["error"],
+    "typescript/no-unnecessary-type-parameters": ["error"]
   }
 }

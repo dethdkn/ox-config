@@ -43,6 +43,7 @@
     "unicorn/throw-new-error": ["error"],
     "unicorn/relative-url-style": ["error"],
     "unicorn/custom-error-definition": ["error"],
-    "unicorn/switch-case-break-position": ["error"]
+    "unicorn/switch-case-break-position": ["error"],
+    "unicorn/consistent-template-literal-escape": ["error"]
   }
 }

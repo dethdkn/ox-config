@@ -1,11 +1,6 @@
 {
   "rules": {
     "typescript/prefer-optional-chain": ["error"],
-    "typescript/no-unnecessary-condition": ["error"],
-    "typescript/no-useless-default-assignment": ["error"],
-    "typescript/no-unnecessary-type-parameters": ["error"],
-    "typescript/no-unnecessary-qualifier": ["error"],
-    "typescript/prefer-readonly-parameter-types": ["off"],
-    "typescript/strict-void-return": ["error"]
+    "typescript/no-unnecessary-condition": ["error"]
   }
 }

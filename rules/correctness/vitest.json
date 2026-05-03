@@ -6,6 +6,14 @@
     "vitest/consistent-each-for": ["error"],
     "vitest/hoisted-apis-on-top": ["error"],
     "vitest/require-mock-type-parameters": ["error"],
-    "vitest/require-awaited-expect-poll": ["error"]
+    "vitest/require-awaited-expect-poll": ["error"],
+    "vitest/expect-expect": ["error"],
+    "vitest/no-conditional-expect": ["error"],
+    "vitest/no-disabled-tests": ["error"],
+    "vitest/no-focused-tests": ["error"],
+    "vitest/no-standalone-expect": ["error"],
+    "vitest/valid-expect": ["error"],
+    "vitest/valid-expect-in-promise": ["error"],
+    "vitest/valid-title": ["error"]
   }
 }

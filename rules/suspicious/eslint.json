@@ -10,6 +10,7 @@
     "eslint/no-useless-constructor": ["error"],
     "eslint/preserve-caught-error": ["error"],
     "eslint/no-shadow": ["error"],
-    "eslint/no-unmodified-loop-condition": ["error"]
+    "eslint/no-unmodified-loop-condition": ["error"],
+    "eslint/no-underscore-dangle": ["error"]
   }
 }

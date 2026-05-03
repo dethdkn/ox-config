@@ -61,6 +61,7 @@
     "eslint/vars-on-top": ["error"],
     "eslint/yoda": ["error"],
     "eslint/prefer-const": ["error"],
-    "eslint/object-shorthand": ["error"]
+    "eslint/object-shorthand": ["error"],
+    "eslint/func-name-matching": ["error"]
   }
 }

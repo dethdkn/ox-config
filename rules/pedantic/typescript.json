@@ -28,6 +28,8 @@
     "typescript/restrict-plus-operands": ["error"],
     "typescript/return-await": ["error"],
     "typescript/strict-boolean-expressions": ["off"],
-    "typescript/switch-exhaustiveness-check": ["error"]
+    "typescript/switch-exhaustiveness-check": ["error"],
+    "typescript/prefer-readonly-parameter-types": ["off"],
+    "typescript/strict-void-return": ["error"]
   }
 }

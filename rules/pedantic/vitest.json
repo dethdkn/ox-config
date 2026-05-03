@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "vitest/no-conditional-in-test": ["error"]
+  }
+}

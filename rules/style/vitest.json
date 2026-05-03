@@ -14,6 +14,23 @@
     "vitest/no-importing-vitest-globals": ["off"],
     "vitest/prefer-import-in-mock": ["error"],
     "vitest/prefer-strict-boolean-matchers": ["error"],
-    "vitest/prefer-called-exactly-once-with": ["error"]
+    "vitest/prefer-called-exactly-once-with": ["error"],
+    "vitest/prefer-expect-assertions": ["off"],
+    "vitest/prefer-to-contain": ["error"],
+    "vitest/consistent-test-it": ["error"],
+    "vitest/max-expects": ["error"],
+    "vitest/max-nested-describe": ["error"],
+    "vitest/no-alias-methods": ["error"],
+    "vitest/no-duplicate-hooks": ["error"],
+    "vitest/no-hooks": ["error"],
+    "vitest/no-identical-title": ["error"],
+    "vitest/no-interpolation-in-snapshots": ["error"],
+    "vitest/no-large-snapshots": ["error"],
+    "vitest/no-mocks-import": ["error"],
+    "vitest/no-restricted-matchers": ["error"],
+    "vitest/no-restricted-vi-methods": ["error"],
+    "vitest/prefer-importing-vitest-globals": ["error"],
+    "vitest/prefer-todo": ["error"],
+    "vitest/require-top-level-describe": ["error"]
   }
 }
