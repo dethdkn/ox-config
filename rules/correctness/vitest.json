@@ -1,5 +1,8 @@
 {
   "rules": {
+    "vitest/prefer-snapshot-hint": ["error"],
+    "vitest/require-to-throw-message": ["error"],
+    "vitest/valid-describe-callback": ["error"],
     "vitest/no-conditional-tests": ["error"],
     "vitest/require-local-test-context-for-concurrent-snapshots": ["error"],
     "vitest/warn-todo": ["error"],

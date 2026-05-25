@@ -1,5 +1,6 @@
 {
   "rules": {
+    "eslint/no-implied-eval": ["off"],
     "eslint/block-scoped-var": ["error"],
     "eslint/no-extend-native": ["error"],
     "eslint/no-extra-bind": ["error"],

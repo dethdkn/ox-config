@@ -1,5 +1,6 @@
 {
   "rules": {
+    "unicorn/prefer-ternary": ["off"],
     "unicorn/catch-error-name": ["error"],
     "unicorn/consistent-date-clone": ["error"],
     "unicorn/consistent-existence-index-check": ["error"],

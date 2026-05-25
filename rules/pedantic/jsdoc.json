@@ -1,5 +1,7 @@
 {
   "rules": {
+    "jsdoc/require-throws-type": ["error"],
+    "jsdoc/require-yields-type": ["error"],
     "jsdoc/require-param": ["error"],
     "jsdoc/require-param-description": ["error"],
     "jsdoc/require-param-name": ["error"],

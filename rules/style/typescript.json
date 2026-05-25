@@ -1,5 +1,6 @@
 {
   "rules": {
+    "typescript/consistent-type-assertions": ["error"],
     "typescript/adjacent-overload-signatures": ["error"],
     "typescript/array-type": ["error"],
     "typescript/ban-tslint-comment": ["error"],

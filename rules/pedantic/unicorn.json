@@ -1,5 +1,6 @@
 {
   "rules": {
+    "unicorn/no-negated-condition": ["off"],
     "unicorn/consistent-assert": ["error"],
     "unicorn/consistent-empty-array-spread": ["error"],
     "unicorn/escape-case": ["error"],

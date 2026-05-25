@@ -1,5 +1,9 @@
 {
   "rules": {
+    "eslint/id-match": ["off"],
+    "eslint/logical-assignment-operators": ["off"],
+    "eslint/prefer-arrow-callback": ["off"],
+    "eslint/prefer-regex-literals": ["off"],
     "eslint/arrow-body-style": ["error", "as-needed"],
     "eslint/capitalized-comments": ["off"],
     "eslint/curly": ["error", "multi-line"],

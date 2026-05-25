@@ -1,5 +1,6 @@
 {
   "rules": {
+    "import/newline-after-import": ["off"],
     "import/consistent-type-specifier-style": ["error"],
     "import/exports-last": ["error"],
     "import/first": ["error"],

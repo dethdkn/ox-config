@@ -1,5 +1,6 @@
 {
   "rules": {
+    "eslint/require-unicode-regexp": ["error"],
     "eslint/accessor-pairs": ["off"],
     "eslint/array-callback-return": ["error"],
     "eslint/eqeqeq": ["error"],

@@ -1,5 +1,6 @@
 {
   "rules": {
+    "typescript/explicit-member-accessibility": ["off"],
     "typescript/explicit-function-return-type": ["error"],
     "typescript/explicit-module-boundary-types": ["error"],
     "typescript/no-dynamic-delete": ["error"],

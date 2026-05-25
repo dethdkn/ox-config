@@ -64,6 +64,7 @@
     "./rules/style/promise.json",
     "./rules/style/vitest.json",
     "./rules/style/vue.json",
+    "./rules/style/jsdoc.json",
     "./rules/nursery/eslint.json",
     "./rules/nursery/typescript.json",
     "./rules/nursery/unicorn.json",

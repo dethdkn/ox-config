@@ -1,5 +1,6 @@
 {
   "rules": {
+    "eslint/no-unassigned-vars": ["off"],
     "eslint/constructor-super": ["error"],
     "eslint/for-direction": ["error"],
     "eslint/no-async-promise-executor": ["error"],
