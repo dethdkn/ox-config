@@ -1,7 +1,6 @@
 {
   "rules": {
     "eslint/no-implicit-globals": ["off"],
-    "eslint/no-restricted-imports": ["off"],
     "eslint/no-restricted-properties": ["off"],
     "eslint/no-use-before-define": ["off"],
     "eslint/class-methods-use-this": ["error"],
@@ -29,7 +28,7 @@
     "eslint/no-proto": ["error"],
     "eslint/no-regex-spaces": ["error"],
     "eslint/no-restricted-globals": ["off"],
-    "no-restricted-imports": [
+    "eslint/no-restricted-imports": [
       "error",
       [
         {

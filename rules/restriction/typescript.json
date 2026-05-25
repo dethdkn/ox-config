@@ -17,7 +17,6 @@
     "typescript/prefer-literal-enum-member": ["error"],
     "typescript/promise-function-async": ["off"],
     "typescript/use-unknown-in-catch-callback-variable": ["error"],
-    "typescript/no-invalid-void-type": ["error"],
-    "typescript/no-use-before-define": ["off"]
+    "typescript/no-invalid-void-type": ["error"]
   }
 }

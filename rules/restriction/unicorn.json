@@ -12,7 +12,6 @@
     "unicorn/prefer-modern-math-apis": ["error"],
     "unicorn/prefer-node-protocol": ["off"],
     "unicorn/prefer-number-properties": ["error"],
-    "unicorn/prefer-module": ["error"],
-    "unicorn/prefer-ternary": ["error"]
+    "unicorn/prefer-module": ["error"]
   }
 }
