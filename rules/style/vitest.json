@@ -18,7 +18,7 @@
     "vitest/prefer-to-be": ["error"],
     "vitest/prefer-to-have-been-called-times": ["error"],
     "vitest/prefer-to-have-length": ["error"],
-    "vitest/require-hook": ["error"],
+    "vitest/require-hook": ["off"],
     "vitest/consistent-test-filename": ["off"],
     "vitest/consistent-vitest-vi": ["off"],
     "vitest/no-import-node-test": ["error"],
