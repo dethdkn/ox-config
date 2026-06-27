@@ -13,6 +13,16 @@
     "vue/no-deprecated-delete-set": ["error"],
     "vue/no-deprecated-events-api": ["error"],
     "vue/no-deprecated-data-object-declaration": ["error"],
-    "vue/no-deprecated-vue-config-keycodes": ["error"]
+    "vue/no-deprecated-vue-config-keycodes": ["error"],
+    "vue/no-expose-after-await": ["error"],
+    "vue/no-computed-properties-in-data": ["error"],
+    "vue/require-render-return": ["error"],
+    "vue/no-deprecated-props-default-this": ["error"],
+    "vue/return-in-emits-validator": ["error"],
+    "vue/no-watch-after-await": ["off"],
+    "vue/valid-next-tick": ["error"],
+    "vue/no-shared-component-data": ["error"],
+    "vue/valid-define-options": ["error"],
+    "vue/require-slots-as-functions": ["error"]
   }
 }

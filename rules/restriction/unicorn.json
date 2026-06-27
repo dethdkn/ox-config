@@ -1,5 +1,6 @@
 {
   "rules": {
+    "unicorn/import-style": ["error"],
     "unicorn/no-abusive-eslint-disable": ["error"],
     "unicorn/no-anonymous-default-export": ["off"],
     "unicorn/no-array-for-each": ["error"],
