@@ -29,6 +29,7 @@
     "vue/no-reserved-props": ["error"],
     "vue/no-reserved-keys": ["error"],
     "vue/no-dupe-keys": ["error"],
-    "vue/no-side-effects-in-computed-properties": ["error"]
+    "vue/no-side-effects-in-computed-properties": ["error"],
+    "vue/no-async-in-computed-properties": ["error"]
   }
 }
