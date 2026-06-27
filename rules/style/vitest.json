@@ -1,5 +1,6 @@
 {
   "rules": {
+    "vitest/consistent-each-for": ["error"],
     "vitest/no-test-prefixes": ["error"],
     "vitest/no-test-return-statement": ["error"],
     "vitest/padding-around-after-all-blocks": ["error"],
