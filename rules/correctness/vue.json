@@ -27,6 +27,8 @@
     "vue/no-reserved-component-names": ["error"],
     "vue/require-prop-type-constructor": ["error"],
     "vue/no-reserved-props": ["error"],
-    "vue/no-reserved-keys": ["error"]
+    "vue/no-reserved-keys": ["error"],
+    "vue/no-dupe-keys": ["error"],
+    "vue/no-side-effects-in-computed-properties": ["error"]
   }
 }

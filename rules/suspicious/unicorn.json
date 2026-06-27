@@ -2,6 +2,7 @@
   "rules": {
     "unicorn/consistent-function-scoping": ["error"],
     "unicorn/no-accessor-recursion": ["error"],
+    "unicorn/no-array-fill-with-reference-type": ["error"],
     "unicorn/no-array-reverse": ["error"],
     "unicorn/no-array-sort": ["error"],
     "unicorn/no-instanceof-builtins": ["error"],
