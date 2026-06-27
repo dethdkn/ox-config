@@ -9,6 +9,10 @@
       }
     ],
     "vue/require-typed-ref": ["error"],
-    "vue/component-definition-name-casing": ["error"]
+    "vue/component-definition-name-casing": ["error"],
+    "vue/next-tick-style": ["error", "promise"],
+    "vue/require-direct-export": ["error"],
+    "vue/require-prop-types": ["error"],
+    "vue/prop-name-casing": ["error", "camelCase"]
   }
 }

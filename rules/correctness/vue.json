@@ -25,6 +25,8 @@
     "vue/valid-define-options": ["error"],
     "vue/require-slots-as-functions": ["error"],
     "vue/no-reserved-component-names": ["error"],
-    "vue/require-prop-type-constructor": ["error"]
+    "vue/require-prop-type-constructor": ["error"],
+    "vue/no-reserved-props": ["error"],
+    "vue/no-reserved-keys": ["error"]
   }
 }
