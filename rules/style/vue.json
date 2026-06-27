@@ -8,6 +8,7 @@
         "destructure": "never"
       }
     ],
-    "vue/require-typed-ref": ["error"]
+    "vue/require-typed-ref": ["error"],
+    "vue/component-definition-name-casing": ["error"]
   }
 }

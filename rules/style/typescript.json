@@ -23,6 +23,7 @@
     "typescript/prefer-find": ["error"],
     "typescript/dot-notation": ["error"],
     "typescript/consistent-type-exports": ["error"],
-    "typescript/no-unnecessary-qualifier": ["error"]
+    "typescript/no-unnecessary-qualifier": ["error"],
+    "typescript/method-signature-style": ["error"]
   }
 }

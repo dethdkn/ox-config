@@ -23,6 +23,8 @@
     "vue/valid-next-tick": ["error"],
     "vue/no-shared-component-data": ["error"],
     "vue/valid-define-options": ["error"],
-    "vue/require-slots-as-functions": ["error"]
+    "vue/require-slots-as-functions": ["error"],
+    "vue/no-reserved-component-names": ["error"],
+    "vue/require-prop-type-constructor": ["error"]
   }
 }

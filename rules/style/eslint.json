@@ -66,6 +66,7 @@
     "eslint/yoda": ["error"],
     "eslint/prefer-const": ["error"],
     "eslint/object-shorthand": ["error"],
-    "eslint/func-name-matching": ["error"]
+    "eslint/func-name-matching": ["error"],
+    "eslint/prefer-named-capture-group": ["error"]
   }
 }

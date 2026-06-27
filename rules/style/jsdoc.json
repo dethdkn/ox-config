@@ -1,5 +1,6 @@
 {
   "rules": {
-    "jsdoc/require-throws-description": ["error"]
+    "jsdoc/require-throws-description": ["error"],
+    "jsdoc/require-yields-description": ["error"]
   }
 }
