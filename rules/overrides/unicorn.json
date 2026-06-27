@@ -1,0 +1,22 @@
+{
+  "overrides": [
+    {
+      "files": ["app/components/**"],
+      "rules": {
+        "unicorn/filename-case": ["error", { "case": "pascalCase" }]
+      }
+    },
+    {
+      "files": ["app/composables/**", "app/plugins/**", "app/types/**", "app/utils/**"],
+      "rules": {
+        "unicorn/filename-case": ["error", { "case": "camelCase" }]
+      }
+    },
+    {
+      "files": ["app/middleware/**", "app/pages/**"],
+      "rules": {
+        "unicorn/filename-case": ["error", { "case": "kebabCase" }]
+      }
+    }
+  ]
+}

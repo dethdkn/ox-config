@@ -74,6 +74,7 @@
     "./jsrules/antfu.json",
     "./jsrules/harlanzw.json",
     "./jsrules/regexp.json",
-    "./jsrules/security.json"
+    "./jsrules/security.json",
+    "./rules/overrides/unicorn.json"
   ]
 }
